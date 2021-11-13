@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ammonia",
+        "val": "ammonia",
+        "limit": 3.7,
+        "units": ""
+    },
+    {
+        "name": "BOD",
+        "val": "bod",
+        "limit": 5,
+        "units": ""
+    },
+    {
+        "name": "E. coli",
+        "val": "coli",
+        "limit": 1000,
+        "units": ""
+    },
+    {
+        "name": "DO",
+        "val": "do",
+        "limit": 5,
+        "units": ""
+    },
+    {
+        "name": "Nitrate",
+        "val": "nitrate",
+        "limit": 10,
+        "units": ""
+    },
+    {
+        "name": "Nitrite",
+        "val": "nitrite",
+        "limit": 1,
+        "units": ""
+    },
+    {
+        "name": "Phosphorus",
+        "val": "ptot",
+        "limit": 0.1,
+        "units": ""
+    }
+]
